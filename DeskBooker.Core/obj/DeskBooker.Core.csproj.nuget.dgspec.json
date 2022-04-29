@@ -1,0 +1,60 @@
+{
+  "format": 1,
+  "restore": {
+    "/home/joao-meta/RiderProjects/PluralSight/DeskBooker/DeskBooker.Core/DeskBooker.Core.csproj": {}
+  },
+  "projects": {
+    "/home/joao-meta/RiderProjects/PluralSight/DeskBooker/DeskBooker.Core/DeskBooker.Core.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/joao-meta/RiderProjects/PluralSight/DeskBooker/DeskBooker.Core/DeskBooker.Core.csproj",
+        "projectName": "DeskBooker.Core",
+        "projectPath": "/home/joao-meta/RiderProjects/PluralSight/DeskBooker/DeskBooker.Core/DeskBooker.Core.csproj",
+        "packagesPath": "/home/joao-meta/.nuget/packages/",
+        "outputPath": "/home/joao-meta/RiderProjects/PluralSight/DeskBooker/DeskBooker.Core/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/joao-meta/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/6.0.101/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,12 @@
+/home/joao-meta/RiderProjects/DeskBooker/DeskBooker.Core/bin/Debug/net6.0/DeskBooker.Core.deps.json
+/home/joao-meta/RiderProjects/DeskBooker/DeskBooker.Core/bin/Debug/net6.0/DeskBooker.Core.dll
+/home/joao-meta/RiderProjects/DeskBooker/DeskBooker.Core/bin/Debug/net6.0/ref/DeskBooker.Core.dll
+/home/joao-meta/RiderProjects/DeskBooker/DeskBooker.Core/bin/Debug/net6.0/DeskBooker.Core.pdb
+/home/joao-meta/RiderProjects/DeskBooker/DeskBooker.Core/obj/Debug/net6.0/DeskBooker.Core.csproj.AssemblyReference.cache
+/home/joao-meta/RiderProjects/DeskBooker/DeskBooker.Core/obj/Debug/net6.0/DeskBooker.Core.GeneratedMSBuildEditorConfig.editorconfig
+/home/joao-meta/RiderProjects/DeskBooker/DeskBooker.Core/obj/Debug/net6.0/DeskBooker.Core.AssemblyInfoInputs.cache
+/home/joao-meta/RiderProjects/DeskBooker/DeskBooker.Core/obj/Debug/net6.0/DeskBooker.Core.AssemblyInfo.cs
+/home/joao-meta/RiderProjects/DeskBooker/DeskBooker.Core/obj/Debug/net6.0/DeskBooker.Core.csproj.CoreCompileInputs.cache
+/home/joao-meta/RiderProjects/DeskBooker/DeskBooker.Core/obj/Debug/net6.0/DeskBooker.Core.dll
+/home/joao-meta/RiderProjects/DeskBooker/DeskBooker.Core/obj/Debug/net6.0/ref/DeskBooker.Core.dll
+/home/joao-meta/RiderProjects/DeskBooker/DeskBooker.Core/obj/Debug/net6.0/DeskBooker.Core.pdb
